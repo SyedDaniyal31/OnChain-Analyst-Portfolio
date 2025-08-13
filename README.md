@@ -65,8 +65,8 @@ I work with tools like:
 
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com & daniyalxh321@gmail.com]
-- **Twitter:** [x.com/AbbasShah31]
+- **Twitter:** [www.x.com/AbbasShah31]
 - **LinkedIn:** [www.linkedin.com/in/syeddaniyal31]
-- **GitHub:** [//github.com/SyedDaniyal31]
+- **GitHub:** [www.github.com/SyedDaniyal31]
 - **Redit:** [www.reddit.com/user/Weed_Smoker_31/]
 - **Threads:** [www.threads.com/@daniyal_syed_31]

@@ -14,9 +14,12 @@ I work with tools like:
 ---
 
 
+
+---
+
 # Case Studies & Research
 
-### 1 Cryptocurrency Market: Overheating Hasn't Even Started
+### Cryptocurrency Market: Overheating Hasn't Even Started
 **Date:** July 2025  
 **Tools Used:** CryptoQuant    
 **Objective:** Identify whether Bitcoin is entering an overheated market phase by analyzing realized cap – UTXO age bands.  
@@ -32,11 +35,10 @@ I work with tools like:
 - This indicates the market has **not yet entered an overheated state**, leaving potential room for further upside.  
 
 **Screenshot:**  
-![Bitcoin UTXO Age Bands](images/utxo-overheating.jpg)
-
+![Image](https://github.com/user-attachments/assets/f4cfe88c-d5f6-40ab-88ff-29eb1b18e40c)
 ---
 
-### 2 ETFs and MSTR Accumulation vs. Bitcoin Price Action
+### ETFs and MSTR Accumulation vs. Bitcoin Price Action
 **Date:** July 2025  
 **Tools Used:** CryptoQuant  
 **Objective:** Analyze Bitcoin accumulation by ETFs and MicroStrategy (MSTR) to evaluate why large institutional buying hasn’t led to new all-time highs.  
@@ -65,19 +67,24 @@ I work with tools like:
 
 ---
 
-### Stablecoin Market Health Analysis
-**Date:** [Month Year]  
-**Tools Used:** Glassnode, CryptoQuant, Dune  
-**Objective:** Measure stablecoin supply growth as a market liquidity indicator.  
+### Bitcoin Long-Term Holders: 30% Supply Untouched for Over 5 Years
+**Date:** June 2025  
+**Tools Used:** Glassnode (HODL Waves, UTXO Age Bands)  
+**Objective:** Analyze Bitcoin’s long-term holder dynamics and estimate the percentage of coins permanently lost.  
+
 **Process:**
-- Pulled circulating supply data from Glassnode
-- Cross-referenced exchange wallet stablecoin reserves from CryptoQuant
-- Created a Dune dashboard visualizing net inflow/outflow trends
+- Examined Bitcoin HODL waves and UTXO age distribution from Glassnode.  
+- Focused on coins untouched for **5+ years**, representing long-term conviction or lost wallets.  
+- Estimated the percentage of coins likely lost forever based on inactivity trends.  
+
 **Key Insights:**
-- Supply contraction often aligned with risk-off sentiment.
-- USDT dominance shifts provided early signals of market repositioning.
+- **30% of Bitcoin supply** has remained unmoved for over 5 years, reflecting strong long-term holder conviction.  
+- An estimated **7.5% of BTC supply** is likely lost forever due to forgotten keys, lost hardware wallets, or early-era mishandling.  
+- This effectively reduces Bitcoin’s **liquid circulating supply**, strengthening the scarcity narrative.  
+- Historical data suggests that increases in the share of long-term holders often precede major bull market phases.  
+
 **Screenshot:**  
-![Stablecoin Flow Chart](images/stablecoin-analysis.png)
+![Image](https://github.com/user-attachments/assets/1cd46a48-9de6-475b-89ac-e1ddfe737ecd)
 
 ---
 

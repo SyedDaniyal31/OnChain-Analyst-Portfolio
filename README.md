@@ -53,6 +53,7 @@ I work with tools like:
 
 **Screenshot:**  
 ![Image](https://github.com/user-attachments/assets/6962f2d6-3956-4ae7-9c79-74427fb0175e)
+
 ---
 
 ### ETFs and MSTR Accumulation vs. Bitcoin Price Action

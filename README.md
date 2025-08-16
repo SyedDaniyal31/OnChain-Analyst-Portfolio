@@ -13,10 +13,6 @@ I work with tools like:
 
 ---
 
-
-
----
-
 # Case Studies & Research
 
 ### Cryptocurrency Market: Overheating Hasn't Even Started
@@ -36,6 +32,27 @@ I work with tools like:
 
 **Screenshot:**  
 ![Image](https://github.com/user-attachments/assets/f4cfe88c-d5f6-40ab-88ff-29eb1b18e40c)
+
+---
+
+###  ETH Gaining Momentum Over Bitcoin
+**Date:** August 2025  
+**Tools Used:** CryptoQuant  
+**Objective:** Identify signals of a new bullish ETH cycle relative to Bitcoin.  
+
+**Process:**
+- Tracked the ETH/BTC price ratio against its **365-day moving average**.  
+- Compared current breakout with past cycles where ETH outperformed BTC.  
+- Monitored ETF flows, focusing on the ETH/BTC ETF holdings ratio to measure institutional allocation trends.  
+
+**Key Insights:**
+- The ETH/BTC ratio has **crossed above its 365-day SMA**, a level that historically marks the start of bullish ETH cycles.  
+- ETF investors are **increasing ETH allocations relative to BTC**, as seen in the rising ETH/BTC ETF holdings ratio.  
+- Renewed demand from both **institutions and traders** suggests ETH could enter a period of **sustained outperformance** versus Bitcoin.  
+- Historically, such crossovers have preceded multi-month ETH rallies, particularly during periods of strong narrative momentum (DeFi, staking, or ETF approvals).  
+
+**Screenshot:**  
+![Image](https://github.com/user-attachments/assets/6962f2d6-3956-4ae7-9c79-74427fb0175e)
 ---
 
 ### ETFs and MSTR Accumulation vs. Bitcoin Price Action

@@ -39,7 +39,7 @@ I work with tools like:
 - Unlocked token events coincided with high sell pressure.
 - Emission schedule suggested gradual supply dilution over 2 years.
 **Screenshot:**  
-![Tokenomics Chart](images/tokenomics-analysis.png)
+![Tokenomics Chart](![Image](https://github.com/user-attachments/assets/fb275d91-f1ca-4ea4-8450-067aff3a5b4e))
 
 ---
 

@@ -20,7 +20,7 @@ I work with tools like:
 **Tools Used:** CryptoQuant    
 **Objective:** Identify whether Bitcoin is entering an overheated market phase by analyzing realized cap – UTXO age bands.  
 
-![Image](https://github.com/user-attachments/assets/f4cfe88c-d5f6-40ab-88ff-29eb1b18e40c)
+![Image](https://github.com/user-attachments/assets/70fca584-925d-4dc0-ad64-984d81f3c3ec)
 
 **Process:**
 - Examined UTXO age band data from CryptoQuant, focusing on coins moved within 1 day to 1 week.  
@@ -39,7 +39,7 @@ I work with tools like:
 **Tools Used:** CryptoQuant  
 **Objective:** Identify signals of a new bullish ETH cycle relative to Bitcoin.  
 
-![Image](https://github.com/user-attachments/assets/6962f2d6-3956-4ae7-9c79-74427fb0175e)
+![Image](https://github.com/user-attachments/assets/4c10a803-94c6-4895-b9b5-561bf0bac973)
 
 **Process:**
 - Tracked the ETH/BTC price ratio against its **365-day moving average**.  
@@ -59,7 +59,7 @@ I work with tools like:
 **Tools Used:** CryptoQuant  
 **Objective:** Analyze Bitcoin accumulation by ETFs and MicroStrategy (MSTR) to evaluate why large institutional buying hasn’t led to new all-time highs.  
 
-![Image](https://github.com/user-attachments/assets/fb275d91-f1ca-4ea4-8450-067aff3a5b4e)
+![Image](https://github.com/user-attachments/assets/452bfa96-0e1c-4513-92bc-c3428c1e7010)
 
 **Process:**
 - Examined CryptoQuant data tracking ETF and MSTR Bitcoin purchases leading up to July 2025.  
@@ -87,7 +87,7 @@ I work with tools like:
 **Tools Used:** Glassnode (HODL Waves, UTXO Age Bands)  
 **Objective:** Analyze Bitcoin’s long-term holder dynamics and estimate the percentage of coins permanently lost.  
 
-![Image](https://github.com/user-attachments/assets/1cd46a48-9de6-475b-89ac-e1ddfe737ecd)
+![Image](https://github.com/user-attachments/assets/5abfc38e-d841-460e-b9c7-d1abf50a6584)
 
 **Process:**
 - Examined Bitcoin HODL waves and UTXO age distribution from Glassnode.  

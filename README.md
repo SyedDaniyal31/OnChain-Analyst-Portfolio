@@ -102,6 +102,29 @@ I work with tools like:
 
 ---
 
+### Bitcoin Short-Term Holders (STH) Back to Selling at a Loss
+**Date:** August 2025  
+**Tools Used:** CryptoQuant, Glassnode (STH-SOPR Multiples)  
+**Objective:** Assess short-term holder (STH) behavior as a signal of potential trend continuation or reversal.  
+
+![Image](https://github.com/user-attachments/assets/303c7387-4e37-4033-a78f-c503326131f7)
+
+**Process:**
+- Tracked STH-SOPR multiples using 30DMA vs 365DMA to identify profit-taking vs loss realization behavior.  
+- Compared current readings with January 2025, when STHs last sustained significant loss realization during the cycle’s deepest correction.  
+- Evaluated historical outcomes of STH-SOPR < 1 events to determine bullish vs bearish implications.  
+
+**Key Insights:**
+- **For the first time since Jan 2025**, STH-SOPR multiples slipped back below 1, showing that short-term investors are again realizing losses.  
+- Historically, this shift has had two possible outcomes:  
+  -  **Weakening Momentum:** Extended loss realization precedes corrections as speculative holders capitulate.  
+  -  **Healthy Reset:** Brief dips flush out weak hands, paving the way for stronger, sustainable rallies.  
+- With Bitcoin consolidating under heavy resistance, this reset becomes a **critical barometer of market health**.  
+  - Quick absorption could mimic past bullish resets.  
+  - Prolonged weakness risks signaling a momentum breakdown.  
+
+---
+
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com]
 - **Twitter:** [www.x.com/AbbasShah31]

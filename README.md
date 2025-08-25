@@ -125,6 +125,26 @@ I work with tools like:
 
 ---
 
+###  Ethereum Outperforming Bitcoin: CME Futures OI Signals
+**Date:** August 2025  
+**Tools Used:** CryptoQuant (CME Futures Open Interest)  
+**Objective:** Evaluate Ethereum’s relative strength vs Bitcoin using CME derivatives positioning.  
+
+![Image](https://github.com/user-attachments/assets/90472840-d53e-4bba-9a04-f0c27fb60932)
+
+**Process:**
+- Tracked **Ethereum CME Futures Open Interest (OI)** growth relative to price action.  
+- Compared ETH’s derivatives participation with BTC to assess institutional positioning.  
+- Considered retail participation levels to determine whether the rally is institutionally driven or speculative.  
+
+**Key Insights:**
+- Ethereum CME OI has risen steadily alongside price, signaling **growing institutional demand**.  
+- ETH has been **outperforming BTC** in recent weeks, with derivatives flows reinforcing this strength.  
+- Importantly, retail activity remains relatively muted, suggesting ETH’s move is still **institution-driven** and not overheated by speculation.  
+- This setup increases the probability that ETH continues to outperform BTC in the **short-to-medium term**, especially if ETF inflows sustain.  
+
+---
+
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com]
 - **Twitter:** [www.x.com/AbbasShah31]

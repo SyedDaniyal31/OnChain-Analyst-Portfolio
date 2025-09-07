@@ -145,10 +145,67 @@ I work with tools like:
 
 ---
 
+### Bitcoin VDD: Long-Term Holder Sell Pressure Easing  
+**Date:** 2023–2025  
+**Tools Used:** CryptoQuant (Value Days Destroyed Indicator)  
+**Objective:** Assess the level of long-term holder (LTH) selling pressure and its implications for BTC price action.  
+
+![Image](https://github.com/user-attachments/assets/030d90f8-2576-4022-8d36-970aafbdc419)
+
+**Process:**  
+- Monitored the **Value Days Destroyed (VDD)** indicator, which measures the magnitude of old coins being spent relative to BTC’s market activity.  
+- Identified periods where VDD spiked into **high** and **extreme** zones, signaling waves of long-term holder distribution.  
+- Observed the current trend where VDD has begun **declining from elevated levels**, suggesting a reduction in sell pressure.  
+
+**Key Insights:**  
+- Elevated VDD levels historically coincide with **local tops**, as long-term holders take profits.  
+- The recent easing of VDD implies **reduced LTH distribution**, which provides relief to the market.  
+- If demand strengthens while sell pressure continues to decline, Bitcoin could regain momentum for a renewed push higher.  
+
+---
+
+### Bitcoin: Spot vs. Derivative Volume as a Bullish Signal
+**Date:** Historical Study (2021–2022 dataset)  
+**Tools Used:** CryptoQuant (Spot vs. Derivative Exchange Volume)  
+**Objective:** Assess whether trading volume composition (spot vs. derivative) can help anticipate major Bitcoin rallies.  
+
+![Image](https://github.com/user-attachments/assets/4ecc6703-1433-401f-ad02-be0ce6f3b04d)
+
+**Process:**
+- Analyzed Bitcoin trading volume split between spot exchanges (genuine demand) and derivative platforms (leverage-driven).  
+- Compared historical bull markets where spot demand surged before major price rallies.  
+- Examined the 2021–2022 cycle to evaluate the dominance of speculative derivative trading.  
+
+**Key Insights:**
+- Historically, **sustained spot volume growth** has preceded major bullish rallies by signaling real buying pressure.  
+- In contrast, during 2021–2022, **derivative volume dominated**, with speculative leveraged trading driving short-term volatility but not sustainable uptrends.  
+- Current conditions show a similar pattern, where **derivatives overshadow spot**, meaning any rally is less sustainable unless spot demand strengthens.  
+- For a **true bull signal**, markets must see **consecutive surges in spot volume**, confirming genuine accumulation.  
+
+---
+
+### Are We in a Deep BTC Correction?
+**Date:** September 2025  
+**Tools Used:** CryptoQuant (BTC Drawdown from ATH)  
+**Objective:** Evaluate the severity of Bitcoin’s current pullback compared to historical bull market corrections.  
+
+![Image](https://github.com/user-attachments/assets/6ed36160-8f82-4a7f-ab71-8d4e3ea74780)
+
+**Process:**
+- Tracked BTC price drawdowns from all-time highs (ATH) using CryptoQuant.  
+- Identified the range of typical pullbacks in past bull cycles (-20% to -28%).  
+- Compared the current correction against this historical baseline.  
+
+**Key Insights:**
+- During the current bull market, Bitcoin has **not corrected more than -28%** from ATH.  
+- Historically, severe drawdowns in bull cycles average **-20% to -25%**, aligning with the present correction.  
+- This suggests the current move is **within normal historical patterns**, not an abnormal capitulation.  
+- Unless the correction breaches -28%, it should be seen as a **healthy pullback** rather than a trend reversal.  
+
+---
+
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com]
 - **Twitter:** [www.x.com/AbbasShah31]
 - **LinkedIn:** [www.linkedin.com/in/syeddaniyal31]
 - **GitHub:** [www.github.com/SyedDaniyal31]
-- **Redit:** [www.reddit.com/user/Weed_Smoker_31/]
-- **Threads:** [www.threads.com/@daniyal_syed_31]

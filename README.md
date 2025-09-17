@@ -343,7 +343,7 @@ I work with tools like:
   - Hedgers are protecting downside risk.  
   - Speculators are positioning for a breakout move.  
 - Historically, similar spikes in options activity ahead of macro events have preceded **sharp price swings**, regardless of direction.
-- 
+
 ---
 
 ## Contact

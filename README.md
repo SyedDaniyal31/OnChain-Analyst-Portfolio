@@ -1,5 +1,9 @@
 # OnChain-Analyst-Portfolio
-# Syed Daniyal Abbas
+---
+
+![Image](https://github.com/user-attachments/assets/fb6fef45-b938-46a7-955e-51098d7469af)
+
+---
 
 ## About Me
 ### I am an On-Chain Analyst with over **7 years** of experience in blockchain data research, whale tracking, market trend analysis, and tokenomics evaluation. My expertise lies in turning complex on-chain datasets into clear, actionable insights for traders, funds, and blockchain projects.
@@ -318,6 +322,28 @@ I work with tools like:
 - The timing suggests **early positioning ahead of the FOMC meeting**, where traders/investors are preparing for a potential positive outcome.  
 - Sustained outflows from major exchanges historically align with **constructive market phases** and reduced downside risk.  
 
+---
+
+###  Bitcoin Near ATH as Options Traders Brace for FOMC Volatility  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant, Deribit Options Data  
+**Objective:** Assess how options market activity reflects investor positioning ahead of the FOMC meeting.  
+
+![Image](https://github.com/user-attachments/assets/c8e31a19-fea2-4388-b3dd-21e6b91b22ca)
+
+**Process:**  
+- Monitored **BTC price relative to ATH**, noting a ~6.8% drawdown heading into the FOMC.  
+- Tracked **options open interest** and **put/call ratios** from Deribit to gauge positioning.  
+- Identified a surge in **options demand** for both hedging and speculative plays.  
+
+**Key Insights:**  
+- BTC is trading **~6.8% below ATH** just before the most anticipated FOMC event of the cycle.  
+- Options traders are aggressively **buying contracts**, signaling expectations of **elevated volatility**.  
+- This reflects market uncertainty:  
+  - Hedgers are protecting downside risk.  
+  - Speculators are positioning for a breakout move.  
+- Historically, similar spikes in options activity ahead of macro events have preceded **sharp price swings**, regardless of direction.
+- 
 ---
 
 ## Contact

@@ -204,6 +204,122 @@ I work with tools like:
 
 ---
 
+### US Spot Bitcoin ETFs: Strongest Daily Inflow Since Mid-July  
+**Date:** Sept 10, 2025  
+**Tools Used:** Glassnode (ETF Flows Data)  
+**Objective:** Track ETF net flows to gauge institutional demand and potential impact on BTC price action.  
+
+![Image](https://github.com/user-attachments/assets/a7cdfb67-11dd-4ed1-a4c4-92f32ba3f02b)
+
+**Process:**  
+- Analyzed daily **spot Bitcoin ETF inflows/outflows** using Glassnode’s ETF flow tracker.  
+- Identified a net inflow of **~5.9K BTC on Sept 10th**, marking the **largest single-day inflow since mid-July 2025**.  
+- Assessed the impact on **weekly net flows**, which turned positive after multiple weeks of muted ETF activity.  
+
+**Key Insights:**  
+- Renewed ETF inflows reflect **institutional confidence** as BTC consolidates above the **$114K level**.  
+- Historically, strong ETF inflows have acted as **momentum drivers**, often preceding upward price expansions.  
+- Sustained positive ETF demand could provide the fuel for Bitcoin’s next breakout above resistance levels.  
+
+---
+
+### BTC Short-Term Holder Realized Price: Key Support Baseline  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode (STH Realized Price)  
+**Objective:** Assess the role of **short-term holder realized price** as a market support indicator.  
+
+![Image](https://github.com/user-attachments/assets/c30452ef-4417-463e-91c6-d81a61bf1d48)
+
+**Process:**  
+- Analyzed **STH realized price**, which represents the average on-chain cost basis of recent market entrants.  
+- Compared this baseline with BTC’s spot price throughout the current bull market.  
+
+**Key Insights:**  
+- Throughout this cycle, **BTC short-term holder realized price has acted as a reliable support level**.  
+- As long as BTC remains above this baseline, the trend remains **constructive and bullish**.  
+- Historically, **losing this support has coincided with market contractions or corrective pullbacks**, signaling short-term fragility.  
+- Current positioning suggests that monitoring STH realized price is critical for anticipating shifts in **market momentum**.  
+
+---
+
+### SOPR Bounce Signals Anticipation Ahead of FOMC  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (SOPR <3M Holders)  
+**Objective:** Track short-term holder profitability trends as a sentiment gauge before macro events.  
+
+![Image](https://github.com/user-attachments/assets/a44ecc95-2894-4cc2-aada-2464ded32afa)
+
+**Process:**  
+- Monitored **SOPR ratio (<3-month holders)**, which measures realized profit margins for the most active BTC spenders.  
+- Focused on market reactions as BTC consolidated at ~$107k.  
+
+**Key Insights:**  
+- SOPR bounced off **neutral (1.0)**, suggesting that recent buyers **returned to profitability** just before the FOMC meeting.  
+- This indicates **renewed confidence among short-term participants** who are sensitive to volatility.  
+- Historically, similar setups have preceded **sharp price reactions around macroeconomic catalysts** like Fed decisions.  
+- Market is showing early signs of **risk-on sentiment**, confirming expectations of a positive policy outcome.  
+
+---
+
+### Sub-3M Holder Cost Basis as a Post-FOMC Pivot  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode (Realized Price Bands <3M Holders)  
+**Objective:** Identify critical support levels for BTC momentum sustainability.  
+
+![Image](https://github.com/user-attachments/assets/762fe933-7c7b-4935-a9e1-d911d0d44db0)
+
+**Process:**  
+- Analyzed the **realized price distribution** of all sub-3-month holders.  
+- Identified the current **aggregate cost basis range: $111.8k – $114.2k**.  
+
+**Key Insights:**  
+- The **recent bounce in SOPR** aligns with BTC reclaiming this key cost basis zone.  
+- Sustaining above $111.8k–$114.2k is essential to preserve the **renewed confidence among short-term participants**.  
+- A break below this zone post-FOMC could trigger a **“sell the news” structure**, historically marking local tops after hype-driven rallies.  
+- If held, this range could serve as the **springboard for continuation** toward higher levels.  
+
+---
+
+### Miner Distribution Eases: Confidence in Rally Builds  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (Miner Outflows, Miner Position Index)  
+**Objective:** Assess the impact of miner distribution behavior on Bitcoin’s price momentum.  
+
+![Image](https://github.com/user-attachments/assets/6661f21b-eb7e-4709-bb0e-0eb51308e58a)
+
+**Process:**  
+- Monitored **miner outflows** from wallets to exchanges using CryptoQuant.  
+- Analyzed the **Miner Position Index (MPI)** to detect periods of distribution vs accumulation.  
+- Cross-referenced miner activity with BTC price support levels around **$112K**.  
+
+**Key Insights:**  
+- Recent data shows **miners cutting back on distribution**, signaling confidence in price sustainability.  
+- A shift in technical structure, paired with miner accumulation, strengthens the **constructive outlook** for BTC.  
+- As long as **$112K support holds**, market structure remains favorable for Bitcoin to **sustain momentum** and attempt another push toward all-time highs.  
+- Historically, miner accumulation phases have often **preceded strong bullish continuations**.  
+
+---
+
+### FOMC Ahead: 9 Days of Binance Outflows Fuel BTC Bounce  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (Exchange Netflows)  
+**Objective:** Track exchange flow trends to assess their impact on BTC price momentum ahead of macro events.  
+
+![Image](https://github.com/user-attachments/assets/708728c6-6f4e-47ea-b3ff-9e49918a9c0b)
+
+**Process:**  
+- Analyzed **Binance netflows** over the past 9 days.  
+- Observed consecutive **outflow streaks**, removing sell-side liquidity from the exchange.  
+- Correlated the outflow trend with BTC’s rebound from **$108K → $115K**.  
+
+**Key Insights:**  
+- Binance has recorded **9 straight days of outflows**, the longest such streak in recent months.  
+- This steady outflow coincides with Bitcoin’s **bounce from $108K to $115K**, highlighting reduced immediate sell pressure.  
+- The timing suggests **early positioning ahead of the FOMC meeting**, where traders/investors are preparing for a potential positive outcome.  
+- Sustained outflows from major exchanges historically align with **constructive market phases** and reduced downside risk.  
+
+---
+
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com]
 - **Twitter:** [www.x.com/AbbasShah31]

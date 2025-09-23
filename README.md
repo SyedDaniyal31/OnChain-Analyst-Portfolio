@@ -1,7 +1,7 @@
 # OnChain-Analyst-Portfolio
 ---
 
-![Image](https://github.com/user-attachments/assets/fb6fef45-b938-46a7-955e-51098d7469af)
+![Image](https://github.com/user-attachments/assets/5765f619-7d1a-464c-98e6-6e0662ed7bc5)
 
 ---
 
@@ -343,6 +343,46 @@ I work with tools like:
   - Hedgers are protecting downside risk.  
   - Speculators are positioning for a breakout move.  
 - Historically, similar spikes in options activity ahead of macro events have preceded **sharp price swings**, regardless of direction.
+
+---
+
+### ETH Unrealized Profits of Mid-Sized Whales at 2021 ATH Levels  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode (Unrealized Profit Metrics by Cohort)  
+**Objective:** Assess unrealized profit levels of mid-sized ETH whales as a potential market top signal.  
+
+![Image](https://github.com/user-attachments/assets/a234cc3c-4d00-4b90-b83b-2b6883ae2338)
+
+**Process:**  
+- Tracked **unrealized profit margins** for mid-sized ETH whales (wallets holding 1k–10k ETH).  
+- Compared current profit conditions with the **Nov 2021 cycle top**.  
+- Evaluated whether this cohort’s positioning indicates elevated distribution risk.  
+
+**Key Insights:**  
+- Mid-sized ETH whales are currently sitting on **unrealized profits at levels last observed in Nov 2021**, near ETH’s all-time high.  
+- This suggests the cohort holds **significant paper gains**, increasing the probability of **profit-taking pressure**.  
+- Historically, similar profit conditions have coincided with **local or cycle tops**.  
+- Monitoring realized profit-taking behavior from this group is critical to anticipate potential **supply-side headwinds** for ETH.  
+
+---
+
+### Bitcoin Futures OI Flush: A Healthy Reset  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (BTC Futures Open Interest)  
+**Objective:** Assess the impact of declining open interest (OI) on market stability and speculative positioning.  
+
+![Image](https://github.com/user-attachments/assets/bdd50a9f-d209-4c61-a8a2-6462b04f32b4)
+
+**Process:**  
+- Monitored **BTC futures open interest (OI)** across major exchanges.  
+- Observed OI decline from **$44.8B → $42.8B** as BTC price corrected to **$113K**.  
+- Compared current leverage flush with prior episodes of OI contraction.  
+
+**Key Insights:**  
+- The drop in OI reflects **reduced speculative exposure** in derivatives markets.  
+- Such leverage flushes often act as **healthy resets**, reducing the risk of cascading liquidations.  
+- While short-term volatility accompanies OI contractions, historically they have created a **more stable foundation** for subsequent price recoveries.  
+- This suggests the recent decline may have **cleared excess leverage**, strengthening BTC’s market structure.  
 
 ---
 

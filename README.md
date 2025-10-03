@@ -386,6 +386,168 @@ I work with tools like:
 
 ---
 
+### BTC Options Skew Signals Caution Despite Low Volatility  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode, Deribit Options Data  
+**Objective:** Evaluate how BTC’s 1M 25-delta skew reflects trader sentiment and risk hedging behavior.  
+
+![Image](https://github.com/user-attachments/assets/01f99ec5-e9f7-4193-be45-02b41b103dfa)
+
+**Process:**  
+- Tracked **1M 25-delta skew**, comparing relative pricing of puts vs. calls.  
+- Observed a persistent climb in skew, with puts priced at a premium.  
+- Cross-checked with implied volatility levels, which remain near historic lows.  
+
+**Key Insights:**  
+- BTC **1M 25-delta skew is climbing**, showing **puts priced at a premium** over calls.  
+- Traders are paying up for **downside protection**, signaling **near-term caution** in positioning.  
+- Meanwhile, **upside optionality remains cheaper**, as implied vols are still near historic lows.  
+- This setup often reflects **hedging demand ahead of potential volatility events**, but also highlights asymmetric opportunities for **cheap bullish exposure**.  
+
+---
+
+### BTC Short-Term Holder RVT Compression: Detox Phase Underway  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode (STH RVT Ratio)  
+**Objective:** Use RVT compression to identify phases of reduced speculative pressure and potential recovery setups.  
+
+![Image](https://github.com/user-attachments/assets/3cecc244-64e7-4403-ac49-2f54beccf1a4)
+
+**Process:**  
+- Tracked **STH RVT ratio**, comparing realized profits of short-term holders with Bitcoin’s network valuation.  
+- Observed compression toward **cycle lows**, a structural reset in realized profit margins.  
+- Compared with historical market detox phases to evaluate forward implications.  
+
+**Key Insights:**  
+- **STH RVT is compressed near cycle lows**, signaling **muted realized profits** relative to valuation.  
+- Historically, such compressions occur during **detox phases**, where speculative excess is flushed out.  
+- These resets often lay the groundwork for **durable recoveries and sustained market uptrends**.  
+- Current RVT trends suggest Bitcoin may be entering a **healthier consolidation base** before the next expansion phase.  
+
+---
+
+### Bitcoin Dominance Rebounds with Price Strength  
+**Date:** Sept 2025  
+**Tools Used:** Glassnode (BTC Dominance Index)  
+**Objective:** Evaluate the significance of BTC dominance recovery in validating market structure.  
+
+![Image](https://github.com/user-attachments/assets/4c8dd627-8037-4d82-8833-724c7b199c9c)
+
+**Process:**  
+- Tracked **BTC dominance** rising from **57% → 59%** during the recent rally.  
+- Compared dominance trends with BTC’s move toward **$114K**.  
+- Cross-checked with historical dominance dynamics during prior cycle expansions.  
+
+**Key Insights:**  
+- BTC dominance has **rebounded from 57% to 59%**, coinciding with recent price strength near $114K.  
+- This **mean reversion in dominance** suggests a healthier market structure.  
+- Historically, **BTC-led rallies** have been more **sustainable** than altcoin-driven pumps, as they reflect stronger core demand.  
+- Current trends imply the market is entering a **more robust BTC-led expansion phase**, reducing fragility from altcoin speculation.  
+
+---
+
+## ETH Open Interest Reset: Clearing Excess Leverage  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (ETH OI by Exchange)  
+**Objective:** Analyze the impact of a major decline in ETH open interest across exchanges.  
+
+![Image](https://github.com/user-attachments/assets/2bece4cc-5dfa-494e-a571-26ff08b1c42b)
+
+**Process:**  
+- Tracked **ETH open interest (OI)** changes across Binance, OKX, Bybit, Deribit, and others.  
+- Identified one of the **largest OI resets since 2024**, with billions in positions unwound.  
+- Compared reset events to previous cycle flushes to assess implications.  
+
+**Key Insights:**  
+- ETH open interest experienced a **sharp reset**, one of the largest since 2024.  
+- The decline reflects a **broader leverage unwinding**, reducing speculative exposure.  
+- Such resets are typically **healthy cleanups**, lowering systemic risk of liquidations.  
+- By removing excess leverage, ETH’s market structure becomes **more stable**, offering a foundation for renewed price discovery if spot demand strengthens.  
+
+---
+
+### Altcoin Volume Dominance Hits All-Time High at 82.3%  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (Exchange Volume Metrics)  
+**Objective:** Assess market structure implications of rising altcoin dominance in exchange trading volumes.  
+
+![Image](https://github.com/user-attachments/assets/f1a47e3c-8a29-4297-9c68-d175518ca2ce)
+
+**Process:**  
+- Tracked **Binance’s trading volume share** between BTC and altcoins (including ETH).  
+- Identified altcoin volume dominance spiking to an **all-time high of 82.3%**.  
+- Compared with prior cycle peaks in altcoin share.  
+
+**Key Insights:**  
+- Altcoin trading volume share has reached a **record 82.3%**, surpassing prior peaks.  
+- Even during the **2021 bull run**, altcoin volume share peaked at **76% in May 2021**, the height of altcoin season.  
+- The current level suggests **altcoin speculation is at unprecedented levels**, reflecting heightened retail and leveraged participation.  
+- Historically, extreme altcoin dominance phases have coincided with **late-stage bull cycles** or **local tops**, where speculative froth dominates BTC-led stability.  
+- Monitoring BTC dominance and ETF inflows alongside this will help confirm whether this represents **structural rotation** or **excessive risk-taking**.  
+
+---
+
+### ETH Network Activity Surges to All-Time Highs  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant  
+**Objective:** Assess the implications of record-high activity on the Ethereum network.  
+
+![Image](https://github.com/user-attachments/assets/e0f82e68-87ca-49ef-8cd3-7b3ffa2c1fb0)
+
+**Process:**  
+- Tracked **daily transaction count and active addresses** on Ethereum.  
+- Identified activity levels between **1.6M–1.7M daily transactions**, marking an all-time high.  
+- Compared with prior peaks during 2021 and 2022 bull markets.  
+
+**Key Insights:**  
+- Ethereum is currently processing **1.6M–1.7M daily transactions**, the **highest levels ever recorded**.  
+- This activity surpasses prior bull market peaks, reflecting **increasing demand for blockspace**.  
+- Elevated network activity often coincides with **greater DeFi, NFT, and stablecoin usage**, alongside new application adoption.  
+- Record usage strengthens ETH’s **fundamental value proposition** as a settlement layer, potentially reinforcing long-term investor confidence.  
+- Sustaining this level of activity could support **price resilience**, especially if paired with declining ETH issuance post-merge.  
+
+---
+
+### Bitcoin Reclaims Trader’s Realized Price – Cycle Bull Phase Resumes  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant (Trader’s Realized Price, Cycle Indicator)  
+**Objective:** Assess the significance of BTC reclaiming the Trader’s Realized Price level.  
+
+![Image](https://github.com/user-attachments/assets/6ea01a4c-d378-4be4-b78d-69b659d5c2a8)
+
+**Process:**  
+- Tracked BTC’s move above **$117K**, crossing the **Trader’s Realized Price ($116K)**.  
+- Evaluated historical cycle behavior when BTC trades above vs. below this metric.  
+- Applied Q4 cycle projections based on prior bull market trajectories.  
+
+**Key Insights:**  
+- BTC has **reclaimed Trader’s Realized Price ($116K)**, confirming entry back into the **bull phase** of the cycle indicator.  
+- Historically, sustaining this level has marked the **transition into expansionary phases** with accelerated upside.  
+- From here, **Q4 cycle targets expand toward $160K–$200K**, based on prior cycle extensions and on-chain momentum.  
+- This structural shift reinforces bullish conviction, provided spot demand and ETF inflows remain supportive.  
+
+---
+
+### The Bull Cycle Is Slow but Still in Progress  
+**Date:** Sept 2025  
+**Tools Used:** CryptoQuant Macro On-Chain Indicators, Cycle Analysis  
+**Objective:** Assess whether the current bull market shows signs of exhaustion or continuation.  
+
+![Image](https://github.com/user-attachments/assets/1a536e97-8b4d-4bd4-84cd-5522c34572f7)
+
+**Process:**  
+- Evaluated on-chain cycle signals (realized metrics, SOPR, short-term holder cost basis).  
+- Compared current drawdowns and pace of price expansion to historical bull markets.  
+- Checked for capitulation or overheating signals across derivatives, holders, and miner flows.  
+
+**Key Insights:**  
+- The **current bull cycle is progressing more slowly** than prior cycles but **remains intact**.  
+- No significant signs of exhaustion or cycle top are visible in long-term metrics.  
+- Derivatives positioning has reset, ETF inflows are resuming, and miner distribution has cooled.  
+- A **strong upward move may be near**, as slow cycles often precede explosive expansions.  
+
+---
+
 ## Contact
 - **Email:** [abbaskazmi321@gmail.com]
 - **Twitter:** [www.x.com/AbbasShah31]
